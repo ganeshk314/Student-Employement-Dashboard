@@ -134,6 +134,7 @@ The dataset used in this project is included in the **Dataset** folder for learn
 
 - GitHub: https://github.com/ganeshk314
 - LinkedIn: https://www.linkedin.com/in/ganeshk314
+- Portfolio: https://ganeshkutikuppala.netlify.app/
 
 ---
 
