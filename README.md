@@ -69,13 +69,6 @@ Student-Employment-Analytics-Dashboard/
 
 ![Dashboard Preview](Images/Dashboard.png)
 
- If you have a GIF, uncomment the line below 
-
-<p align="center">
-  <img src="Images/Dashboard.mp4" alt="Dashboard" width="100%">
-</p>
-
----
 
 ## 📈 Key Insights
 
