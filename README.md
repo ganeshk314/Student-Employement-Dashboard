@@ -71,7 +71,9 @@ Student-Employment-Analytics-Dashboard/
 
  If you have a GIF, uncomment the line below 
 
-![Dashboard GIF](Images/Dashboard.mp4)
+<p align="center">
+  <img src="Images/Dashboard.mp4" alt="Dashboard" width="100%">
+</p>
 
 ---
 
