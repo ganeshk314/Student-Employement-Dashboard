@@ -67,10 +67,6 @@ Student-Employment-Analytics-Dashboard/
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Images/Dashboard.png)
-
-##GIF
-
 <p align="center">
   <img src="Images/Dashboard.gif" alt="Student Analytics Dashboard" width="100%">
 </p>
